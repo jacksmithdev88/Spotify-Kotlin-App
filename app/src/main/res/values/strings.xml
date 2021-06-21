@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotToTab</string>
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="Tabs">Tabs</string>
+    <string name="YourAccount">Your Account</string>
+</resources>
